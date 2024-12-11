@@ -26,6 +26,6 @@
     "hexo-theme-landscape": "^1.0.0"
   },
   "devDependencies": {
-    "@realfavicongenerator/gulp-real-favicon": "^0.4.6"
+    "@realfavicongenerator/gulp-real-favicon": "^0.4.12"
   }
 }
